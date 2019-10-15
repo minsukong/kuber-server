@@ -1,0 +1,16 @@
+{
+  "name": "kuber-server",
+  "version": "1.0.0",
+  "description": "uber clone",
+  "main": "index.js",
+  "repository": "https://github.com/jsStudyGroup/kuber-server.git",
+  "author": "<mansukong@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "nodemon": "^1.19.3",
+    "ts-node": "^8.4.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.4"
+  }
+}
